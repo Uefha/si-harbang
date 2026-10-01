@@ -1,0 +1,33 @@
+{
+    "name": "SI-HARBANG - SMA Taruna Nusantara",
+    "short_name": "SI-HARBANG",
+    "description": "Sistem Informasi Pelaporan Kerusakan Sarana, Prasarana, dan Bangunan SMA Taruna Nusantara",
+    "start_url": "/dashboard",
+    "id": "/dashboard",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#f4f7fb",
+    "theme_color": "#0d3b73",
+    "lang": "id",
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512-maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
